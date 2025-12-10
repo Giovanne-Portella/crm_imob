@@ -432,8 +432,3 @@ export const AppRouters = () => {
 - [React Documentation](https://react.dev/)
 - [React Router](https://reactrouter.com/)
 - [MDN Web Docs](https://developer.mozilla.org/)
-
----
-
-**Desenvolvido com ❤️ para gestão imobiliária**
-

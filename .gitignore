@@ -1,0 +1,5 @@
+# Contexto do projeto
+CONTEXTO.md
+
+# Configurações do Claude (Contém API key local)
+.claude/settings.local.json
